@@ -1,0 +1,5 @@
+OpenCv          https://github.com/openembedded/meta-oe/blob/dylan/meta-oe/recipes-support/opencv/opencv_2.4.3.bb
+Phyton-numphy   https://github.com/openembedded/meta-oe/blob/dylan/meta-oe/recipes-devtools/python/python-numpy_1.7.0.bb
+swig            https://github.com/openembedded/meta-oe/tree/dylan/meta-oe/recipes-devtools/swig
+libav           https://github.com/openembedded/meta-oe/tree/dylan/meta-oe/recipes-multimedia/libav
+Recetas .bb     https://wiki.yoctoproject.org/wiki/How_do_I
